@@ -1,5 +1,5 @@
 # RicochetShooter
- simple game with gamemaker studio 2
+ simple game with gamemaker studio 2 from https://www.udemy.com/course/gamemakergames/
  
  screens are below.
 
